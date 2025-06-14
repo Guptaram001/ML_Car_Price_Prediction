@@ -26,13 +26,8 @@ An interactive **Machine Learning web application** built using **Streamlit** to
 ---
 
 ## 📁 Project Structure
-├── main.py # Streamlit app source code
-├── requirements.txt # Python dependencies
-├── static/
-│ └── image.png # Header image for the app
-├── numercial_values.json # Range values for sliders
-├── categorical_values.json # Dropdown options for categories
-└── feature_names.json # Ordered list of model input features
+<pre><code>```none project-root/ ├── main.py # Streamlit app source code ├── requirements.txt # Python dependencies ├── static/ │ └── image.png # Header image ├── numercial_values.json # Range info for sliders ├── categorical_values.json # Options for dropdowns └── feature_names.json # Ordered feature list ``` </code></pre>
+
 
 
 ### 1. Clone the Repository
