@@ -30,7 +30,7 @@ An interactive **Machine Learning web application** built using **Streamlit** to
 ├── main.py # Streamlit app source code  
 ├── requirements.txt # Python dependencies  
 ├── static/  
-└── image.png # Header image for the app  
+├── image.png # Header image for the app  
 ├── numercial_values.json # Range values for sliders  
 ├── categorical_values.json # Dropdown options for categories  
 └── feature_names.json # Ordered list of model input features  
