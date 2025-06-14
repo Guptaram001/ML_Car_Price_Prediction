@@ -202,3 +202,7 @@ cython_debug/
 
 #virtual environment
 .venv
+
+submission.csv
+
+car_price_model.joblib
