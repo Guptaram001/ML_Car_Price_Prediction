@@ -40,16 +40,26 @@ An interactive **Machine Learning web application** built using **Streamlit** to
 ```bash
 git clone https://github.com/yourusername/car-price-prediction-app.git
 cd car-price-prediction-app
+```
 
 ### 2. Create and activate virtual environment
+
+```bash
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
+```
 
 ### 3. Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the App
+
+```bash
 streamlit run main.py
+```
 
 Then open http://localhost:8501 in your browser.
 
